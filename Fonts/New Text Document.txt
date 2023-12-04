@@ -1,0 +1,27 @@
+open sans : 	bold + big
+		3ady + small
+		3ady + italic
+
+
+
+
+
+
+
+
+
+
+inter , sans :	3ady + small
+		bold	
+
+
+
+Amatic SC : 	3ady + big
+
+
+	
+
+
+
+
+
